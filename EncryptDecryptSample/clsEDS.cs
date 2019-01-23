@@ -39,7 +39,7 @@ namespace EncryptDecryptSample
 
         //Encrypt
         /// <summary>
-        /// Encrypts the string.
+        /// Encrypts the string (256bit encryption).
         /// </summary>
         /// <param name="plainText">The plain text.</param>
         /// <param name="passPhrase">The pass phrase.</param>
@@ -64,7 +64,7 @@ namespace EncryptDecryptSample
         }
         //Decrypt
         /// <summary>
-        /// Decrypts the string.
+        /// Decrypts the string (256bit encryption).
         /// </summary>
         /// <param name="cipherText">The cipher text.</param>
         /// <param name="passPhrase">The pass phrase.</param>
