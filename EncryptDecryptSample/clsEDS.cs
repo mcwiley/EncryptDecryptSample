@@ -1,5 +1,5 @@
 ﻿// ***********************************************************************
-// Assembly         : EncryptDecryptSample
+// Assembly         : EncryptDecrypt
 // Author           : Craig Wiley
 // Created          : 06-16-2018
 //
